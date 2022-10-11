@@ -1,0 +1,2 @@
+INSERT INTO EVENT VALUES (1, 'Nuit Info', 'Nuit Info', 'Sophia - Lucioles', '15/12/22 18:00-00:00', 100); 
+INSERT INTO EVENT VALUES (2, 'Hackathon', 'Hackathon', 'Sophia - Templiers', '10/11/22 16:00-20:00', 100); 

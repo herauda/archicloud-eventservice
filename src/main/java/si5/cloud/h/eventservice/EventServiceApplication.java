@@ -1,13 +1,13 @@
-package archicloud.equipeh.eventservice;
+package si5.cloud.h.eventservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EventserviceApplication {
+public class EventServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EventserviceApplication.class, args);
+		SpringApplication.run(EventServiceApplication.class, args);
 	}
 
 }

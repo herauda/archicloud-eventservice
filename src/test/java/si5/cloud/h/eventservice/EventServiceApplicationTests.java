@@ -1,10 +1,10 @@
-package archicloud.equipeh.eventservice;
+package si5.cloud.h.eventservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventserviceApplicationTests {
+class EventServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
